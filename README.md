@@ -2,7 +2,11 @@
 
 A clean and modern calculator web application with keyboard support, built with GitHub Copilot in VS Code following a Coursera course, with additional personal enhancements.
 
-![Calculator Screenshot](screenshot.png)
+<img 
+    src="screenshot.png" 
+    alt="Calculator Screenshot" 
+    width="400"
+/>
 
 ## Project Background
 
